@@ -186,7 +186,7 @@
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-vsftpd-zh-cn"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-watchcat-zh-cn"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-wechatpush-zh-cn"
-# ZTE F50 5G USB 网络支持
+# 中兴 F50 5G USB 网卡驱动
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES kmod-usb-net-cdc-ether kmod-usb-net-rndis usbutils ip-full"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-wifischedule-zh-cn"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-xinetd-zh-cn"
